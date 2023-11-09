@@ -1,0 +1,366 @@
+Body {
+    background-image: url(./images/headackground.jpg);
+    background-color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Source Sans 3', sans-serif;
+    background-repeat: no-repeat;
+}
+
+/* HeaderSection css starts here */
+#HeaderSection {
+    color: white;
+    text-align: center;
+
+}
+
+#HeaderSection h1 {
+    padding-top: 190px;
+    font-size: 54px;
+    font-weight: 100;
+}
+
+#HeaderSection p {
+    font-size: 29px;
+}
+
+#HeaderSection h2 {
+    font-weight: 100;
+    border: 2px solid;
+    display: inline-block;
+    border-radius: 5px;
+    padding: 15px 55px 15px 55px;
+}
+
+/* HeaderSection css starts here */
+
+/* BodySection css starts here */
+
+#BodySection {
+    color: #8f8f90;
+    text-align: center;
+    padding-top: 250px;
+}
+
+#BodySection h1 {
+    font-size: 45px;
+    font-weight: 100;
+}
+
+#BodySection p {
+    font-size: 22px;
+}
+
+/* BodySection css ends here */
+
+/* IconSection css starts here */
+#IconSection {
+    background-image: linear-gradient(to bottom left, #90575e, #b19368);
+    margin-top: 100px;
+    width: 100%;
+    padding-top: 100px;
+}
+
+#IconSection div {
+    display: inline-block;
+    text-align: center;
+    color: #d7dded;
+    padding-left: 80px;
+}
+
+#IconSection h1 {
+    color: #faf9f9;
+    font-weight: 100;
+    font-size: 35px
+}
+
+#IconSection p {
+    color: #c0abb2;
+    font-size: 20px;
+}
+
+#IconSection .fa-clock-o {
+    color: white;
+    border: 2px solid #d7dded;
+    border-radius: 100%;
+    padding: 30px 35px;
+    font-size: 90px;
+}
+
+#IconSection .fa-bolt {
+    color: white;
+    border: 2px solid #d7dded;
+    border-radius: 100%;
+    padding: 30px 50px;
+    font-size: 90px;
+}
+
+#IconSection .fa-cloud {
+    color: white;
+    border: 2px solid #d7dded;
+    border-radius: 100%;
+    padding: 35px;
+    font-size: 90px;
+}
+
+#IconSection h2 {
+    color: #faf9f9;
+    font-weight: 100;
+    font-size: 25px;
+    border: 1px solid white;
+    display: inline-block;
+    border-radius: 6px;
+    padding: 15px 55px 15px 55px;
+    margin-bottom: 100px;
+    margin: 50px 0px 100px 500px;
+}
+
+/* IconSection css ends here */
+
+/* BodySection2 css starts here */
+#BodySection2 {
+    text-align: center;
+    padding: 80px 0px 60px 0px;
+
+}
+
+#BodySection2 h1 {
+    font-size: 45px;
+    font-weight: 100;
+}
+
+#BodySection2 p {
+    color: #a29d9d;
+    font-size: 22px;
+}
+
+/* BodySection2 css ends here */
+
+/* ImgSection css starts here */
+#ImgSection {
+    color: white;
+    background-image: linear-gradient(to right, #424854, #6f4755);
+    width: 100%;
+}
+#ImgSection div{
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+    padding: 90px 10px 50px 20px;
+}
+#ImgSection img{
+    border-radius: 8px 8px 8px 8px;
+    padding-bottom: 30px;
+    padding-right: -10px;
+}
+#TextDiv{
+    margin-left: 50px;
+}
+#ImgDiv1{
+    margin-right:-15px;
+}
+#ImgSection h1{
+    font-weight: 100;
+    font-size: 30px;
+}
+#ImgSection p{
+    font-size: 22px;
+    text-align: justify;
+    width: 95%;   
+}
+#ImgSection h2{
+    border: 1px solid #e6e6e6;
+    border-radius: 6px;
+    padding: 15px 15px 15px 55px;
+    margin-top: 55px;
+    width: 257px;
+    
+}
+/* ImgSection css ends here */
+
+/* BodySection3 css starts here */
+#BodySection3 {
+    text-align: center;
+    padding: 80px 0px 60px 0px;
+
+}
+
+#BodySection3 h1 {
+    font-size: 45px;
+    font-weight: 100;
+}
+
+#BodySection3 p {
+    color: #a29d9d;
+    font-size: 22px;
+}
+
+/* BodySection3 css ends here */
+
+/* DescripSection css starts here */
+#DescripSection
+{
+    text-align: center;
+    background-color: #344353;
+    background-image: linear-gradient(to bottom left, #374856, #556e65);
+    padding-top: 100px;
+    color: #e6e6e6;
+    width: 100%;
+}
+#DescripSection div{
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    margin: 10px 0px 0px 13px;
+    padding-bottom: 100px;
+}
+#DescripSection img{
+    border-radius: 8px;
+    width: 90%;
+}
+#DescripSection h1{
+    font-weight: 100;
+    text-align: left;
+}
+#DescripSection p{
+    text-align: justify;
+    font-size: 20px;
+    
+}
+#DescripSection h2{
+    text-align: left;
+    font-weight: 100;
+    border: 1px solid #e6e6e6;
+    padding: 15px 15px 15px 45px;
+    border-radius: 6px;
+    width: 280px;
+    margin-top: 40px;
+}
+/* DescripSection css ends here */
+
+/* FooterSection css starts here */
+
+#FooterSection{
+    text-align: center;
+    padding-top: 60px;
+}
+#DivFoot1 h1{
+    font-weight: 100;
+    font-size: 45px;
+}
+#DivFoot1 p {
+    color: #a29d9d;
+    font-size: 22px;
+    padding-bottom: 80px;
+}
+#DivFoot1 input{
+    
+    height:50px;
+    width: 434px;
+    margin: 0px 10px 20px 10px;
+    border-radius: 6px;
+    border: 1px solid #e6e6e6;
+    background-color: #f8f8f8;
+}
+#DivFoot1 textarea{
+    height: 250px;
+    width: 890px;
+    background-color: #f8f8f8;
+    border: 1px solid #e6e6e6;
+    border-radius: 6px;
+
+}
+#DivFoot1 textarea::placeholder{
+    font-size: 20px;
+    font-family: 'source sans 3' , sans serif;
+    padding: 10px 0px 0px 15px;
+}
+#DivFoot1 input::placeholder{
+    font-size: 20px;
+    font-family: 'source sans 3' , sans serif;
+    padding: 20px 0px 0px 15px;
+}
+#DivFoot1 button{
+    margin: 15px 20px 100px 0px;
+}
+#send{
+    background-color: #3d3d3d;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    height: 60px;
+    width: 220px;
+    font-size: 20px;
+    font-weight: 100;
+
+}
+#clear{
+    background-color: white;
+    color: #8d8b88;
+    border: none;
+    border-radius: 6px;
+    height: 60px;
+    width: 220px;
+    font-size: 20px;
+    font-weight: 100;
+    border: 1px solid #8d8b88;
+}
+
+#DivFoot2{
+    background-color: #f8f8f8;
+    height: 400px;
+}
+#DivFoot2 .fa{
+    margin: 90px 10px 30px 10px;
+}
+#DivFoot2 ul li{
+    display: inline-block;
+    font-size: 18px;
+}
+#up{
+    border-right: 1px solid #c6c6c6;
+    border-left: 1px solid #c6c6c6;
+    padding: 0px 15px 0px 15px;
+    margin: 0px 15px 0px 15px;
+    
+}
+#DivFoot2 .fa-twitter {
+    color: #aaaaaa;
+    border: 1px solid #aaaaaa;
+    font-size: 25px;
+    border-radius: 100%;
+    padding: 13px;
+
+}
+
+#DivFoot2 .fa-facebook {
+    color: #aaaaaa;
+    border: 1px solid #aaaaaa;
+    font-size: 25px;
+    border-radius: 100%;
+    padding: 13px 18px;
+}
+
+#DivFoot2 .fa-instagram {
+    color: #aaaaaa;
+    border: 1px solid #aaaaaa;
+    font-size: 25px;
+    border-radius: 100%;
+    padding: 13px 15px;
+}
+
+#DivFoot2 .fa-dribbble {
+    color: #aaaaaa;
+    border: 1px solid #aaaaaa;
+    font-size: 25px;
+    border-radius: 100%;
+    padding: 13px 15px;
+}
+#DivFoot2 .fa-github {
+    color: #aaaaaa;
+    border: 1px solid #aaaaaa;
+    font-size: 25px;
+    border-radius: 100%;
+    padding: 13px 15px;
+}
+/* LinksSection css ends here */
